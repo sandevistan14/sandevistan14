@@ -1,4 +1,4 @@
-![Sandevistan](logo.PNG "logo").
+<img src="logo.PNG" alt="logo" width="1000"/>
 
 ### Hi there 👋
 ### I LOVE PACMAN
