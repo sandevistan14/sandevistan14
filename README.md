@@ -1,7 +1,8 @@
 <img src="logo.PNG" alt="logo" width="1000"/>
 
-### Hi there 👋
-### I LOVE PACMAN
+### Hi there 👋 i'am @sandevistan14
+I'am a french student in computer science  
+you can check for more information on me here -> <https://sandevistan14.github.io/sandevistan/>
 
 
 
