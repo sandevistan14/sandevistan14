@@ -3,8 +3,6 @@
 ### Hi there 👋 i'am @sandevistan14
 I'am a french student in computer science ➰〰️➰
 
-you can check for more information on me here -> <https://sandevistan14.github.io/sandevistan/>
-
 
 
 
