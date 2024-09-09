@@ -1,5 +1,3 @@
-<img src="logo.PNG" alt="logo" width="1000"/>
-
 ### Hi there 👋 i'am @sandevistan14
 I'am a french student in computer science ➰〰️➰
 
