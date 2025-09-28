@@ -32,7 +32,7 @@
 
 ### 📫 How to reach me
 
-- 📧 Email: *robin.l1405@gmail.com*  
+- 📧 Email: *robin.lerouge@outlook.com*  
 - 💼 LinkedIn: *https://www.linkedin.com/in/robin-lerouge-695971269/*  
 - 💬 Discord: *@sandevistann*  
 
