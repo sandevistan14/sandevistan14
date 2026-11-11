@@ -27,7 +27,6 @@ I build full-stack web applications and I'm especially interested in AI and data
 |---|---|---|
 | [AppFoodBox](https://github.com/FoodBoxOrg/AppFoodBox) | Web app to log meals, rate them and browse friends' profiles (team of 3) | PHP · Symfony · Twig |
 | [Fake News project](https://github.com/LESTRELIN-Valentin-2225053a/SAE3.A.01_Projet_Fake_News) | Angular web application built for a university team project on fake news | TypeScript · Angular |
-| [SismoInfo](https://github.com/sandevistan14/SismoInfo) | Desktop app to explore and visualise French seismic data (team of 4) | Java · JavaFX |
 | [Captain Up](https://github.com/Rackyrr/Captain_up) | 3D game made with Unity, with assets modelled in Blender (team of 2) | C# · Unity · Blender |
 | [PacMan](https://github.com/sandevistan14/PacMan) | Pac-Man clone written in C++ | C++ · Qt |
 
