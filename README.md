@@ -5,7 +5,7 @@
 I build full-stack web applications and I'm especially interested in AI and data, with a focus on making data usage in AI more ethical and transparent.
 
 <p>
-  <a href="https://www.linkedin.com/in/robin-lerouge-695971269/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+  <a href="https://www.linkedin.com/in/robin-lerouge/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
   <a href="mailto:robin.lerouge@outlook.com"><img src="https://img.shields.io/badge/Email-0078D4?style=flat&logo=microsoftoutlook&logoColor=white" alt="Email"/></a>
 </p>
 
